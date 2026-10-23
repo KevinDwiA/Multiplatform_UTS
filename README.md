@@ -12,7 +12,6 @@ Aplikasi ini berjalan sepenuhnya secara lokal tanpa memerlukan koneksi internet,
 |---|---|
 | **Nama** | Muhamad Kevin Dwi Arisandi |
 | **NIM** | 240605110252 |
-| **Kelas** | [KELAS] |
 | **Mata Kuliah** | Pemrograman Multiplatform |
 | **Program Studi** | Teknik Informatika |
 | **Fakultas** | Sains dan Teknologi |
